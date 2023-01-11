@@ -1,1 +1,1 @@
-![image](https://github.com/azxa318258p/nchu-cse/blob/master/111-1-course/Digital_Image_Processing/hw4_connected_component/result.png?raw=true)
+![image](https://github.com/azxa318258p/Digital_Image_Processing/blob/main/hw4_extraction_of_connected_component/result.png?raw=true)
