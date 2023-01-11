@@ -1,2 +1,2 @@
 
-![image](https://github.com/azxa318258p/nchu-cse/blob/master/111-1-course/Digital_Image_Processing/hw3_adaptive%20median%20filter/result.png?raw=true)
+![image](https://github.com/azxa318258p/Digital_Image_Processing/blob/main/hw3_adaptive%20median%20filter/result.png?raw=true)
